@@ -25,4 +25,4 @@ I am student persueing a bachelors degree in Computer Science & Engineering, and
 
 ### 📊 Stats
 
-![Alex's Github Stats](https://github-readme-stats.vercel1.app/api?username=A13xYanez&show_icons=true&theme=gruvbox)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=A13xYanez&show_icons=true&theme=tokyonight)
