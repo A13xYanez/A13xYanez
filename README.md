@@ -25,5 +25,5 @@ I am student persueing a bachelors degree in Computer Science & Engineering, and
 
 ### 📊 Stats
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=A13xYanez&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Alex's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A13xYanez&layout=compact&theme=tokynight&hide_border=true" /> |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=A13xYanez&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Alex's github stats" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A13xYanez&layout=compact&theme=tokynight&hide_border=true" />
 
